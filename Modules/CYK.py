@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# Menyimpan semua RHS dari CNF
+
 rhs_set = set()
 
 # Membaca file CNF dan mengubahnya menjadi struktur data yang digunakan
